@@ -6,7 +6,7 @@ Este repositório contém a infraestrutura necessária para o projeto **Foodtech
 ## Visão Geral do Projeto
 
 Este projeto utiliza a **infraestrutura como código** (IaC) para criar e gerenciar clusters Kubernetes na AWS, que hospedarão o sistema **Foodtech**. O sistema usa o **AWS Cognito** para autenticação e o **PostgreSQL** como banco de dados.
- 
+  
 ## Pré-requisitos
 
 - **Terraform**: `^1.0`
