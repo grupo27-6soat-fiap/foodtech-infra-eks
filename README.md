@@ -2,7 +2,7 @@
 # Foodtech Infra EKS
 
 Este repositório contém a infraestrutura necessária para o projeto **Foodtech** usando **Amazon EKS** (Elastic Kubernetes Service) e é gerenciado usando **Terraform**. Este guia vai ajudá-lo a entender como configurar e executar o projeto.
-
+ 
 ## Visão Geral do Projeto
 
 Este projeto utiliza a **infraestrutura como código** (IaC) para criar e gerenciar clusters Kubernetes na AWS, que hospedarão o sistema **Foodtech**. O sistema usa o **AWS Cognito** para autenticação e o **PostgreSQL** como banco de dados.
